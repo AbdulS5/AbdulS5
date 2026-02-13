@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I’m Abdul 👋
 
-<!--
-**AbdulS5/AbdulS5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student building AI powered and serverless applications.
 
-Here are some ideas to get you started:
+### 🚀 What I Work On
+- Full stack web apps with React + Node.js  
+- Serverless systems using AWS Lambda & DynamoDB  
+- Real time AI integrations (LLMs, speech processing, AI copilots)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏗 Projects
+- 🧠 **SocialX-Ray** – AI speech coach (Hack Harvard 2025)  
+- 💰 **Serverless Expense Tracker** – React + AWS + Firebase  
+- 🎬 **StoryVerse** – AI-powered creator platform (Aedify Challenge Winner)  
+- Built 5+ AI web apps impacting 1,000+ users  
+
+### 🛠 Tech Stack
+React • JavaScript • Node.js • AWS • DynamoDB • Firebase  
+Java • C++ • Python • SQL • Go  
+
+### 🌱 Currently Learning
+AI systems • backend architecture • scalable cloud design
+
+### ⚡ Fun Fact
+Hackathon builder, PS5 gamer, and always down for a competitive soccer match.
