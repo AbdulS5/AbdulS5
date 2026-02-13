@@ -20,16 +20,8 @@ Computer Science student building AI powered and serverless applications.
 ---
 
 ### 🛠 Tech Stack
-- React  
-- JavaScript  
-- Node.js  
-- AWS (Lambda, API Gateway, DynamoDB)  
-- Firebase  
-- Java  
-- C++  
-- Python  
-- SQL  
-- Go  
+React • JavaScript • Node.js • AWS • DynamoDB • Firebase  
+Java • C++ • Python • SQL • Go  
 
 ---
 
